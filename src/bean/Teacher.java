@@ -9,7 +9,7 @@ public class Teacher extends User implements Serializable {
 =======
 	 * 教員ID:String　さとう書き込み !!!!
 	 *
->>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
+>>>>>>> branch 'master' of https://github.com/MoriTea/examtest.gitAAAAAAAA
 	 */
 	private String id;
 

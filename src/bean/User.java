@@ -9,7 +9,7 @@ public class User {
 	 * ゲッター、セッター uuuuufyjyjyjyjty
 =======
 	 * ゲッター、セッター uuuuu iiiii
->>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
+>>>>>>> branch 'master' of https://github.com/MoriTea/examtest.gitAAAAAAAAA
 	 */
 	public boolean isAuthenticated() {
 		return isAuthenticated;
