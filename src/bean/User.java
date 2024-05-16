@@ -6,7 +6,11 @@ public class User {
 
 	/**
 <<<<<<< HEAD
+<<<<<<< HEAD
 BBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCC
+=======
+BBBBBBBBBBBBBBBBBBBBBBccccccccccccccccccccccc
+>>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
 =======
 bbbbbbbbbbbbbbbbb
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git

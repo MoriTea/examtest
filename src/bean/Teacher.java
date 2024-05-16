@@ -4,8 +4,13 @@ import java.io.Serializable;
 
 public class Teacher extends User implements Serializable {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	/**CCCC
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCC
+=======
+	/**
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBcccccccccccc
+>>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
 =======
 	/**bbbbbbbb
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
