@@ -12,7 +12,7 @@ public class User {
 	private boolean isAuthenticated;
 
 	/**
-	 * ゲッター、セッター
+	 * ゲッター、セッター sfijgjgoj
 	 */
 	public boolean isAuthenticated() {
 		return isAuthenticated;
