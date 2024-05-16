@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Teacher extends User implements Serializable {
 	/**
-	 * 教員ID:String　森追加１
+	 * 教員ID:String　さとう書き込み
 	 */
 	private String id;
 
@@ -59,3 +59,4 @@ public class Teacher extends User implements Serializable {
 	}
 
 }
+>>>>>>> refs/remotes/origin/master
