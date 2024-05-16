@@ -5,11 +5,7 @@ public class User {
 	private boolean isAuthenticated;
 
 	/**
-<<<<<<< HEAD
-	 * ゲッター、セッター uuuuufyjyjyjyjty aaaaaaaaa
-=======
-	 * ゲッター、セッター uuuuu iiiii
->>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
+bbbbbbbbbbbbbbbbb
 	 */
 	public boolean isAuthenticated() {
 		return isAuthenticated;
