@@ -6,7 +6,7 @@ public class User {
 
 	/**
 <<<<<<< HEAD
-BBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBccccccccccccccccccccccc
 =======
 bbbbbbbbbbbbbbbbb
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
