@@ -8,7 +8,7 @@ public class User {
 	private boolean isAuthenticated;
 
 	/**
-	 * ゲッター、セッター
+	 * ゲッター、セッター uuuuu
 	 */
 	public boolean isAuthenticated() {
 		return isAuthenticated;
