@@ -59,3 +59,4 @@ public class Teacher extends User implements Serializable {
 	}
 
 }
+>>>>>>> refs/remotes/origin/master
