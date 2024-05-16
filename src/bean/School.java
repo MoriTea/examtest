@@ -10,7 +10,7 @@ public class School implements Serializable {
 	private String cd;
 
 	/**
-	 * 学校名:String iiiiii
+	 * 学校名:String　ｄｄｄｄ
 	 */
 	private String name;
 
