@@ -3,8 +3,12 @@ package bean;
 import java.io.Serializable;
 
 public class Teacher extends User implements Serializable {
+<<<<<<< HEAD
 	/**
 BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+=======
+	/**bbbbbbbb
+>>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
 	 */
 	private String id;
 
