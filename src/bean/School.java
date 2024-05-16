@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class School implements Serializable {
 
 	/**
-	 * 学校コード:String　ｃｃｃｃｃ
+	 * 学校コード:String aaaaaa
 	 */
 	private String cd;
 
