@@ -10,7 +10,7 @@ public class Student implements Serializable {
 	private String no;
 
 	/**
-	 * 氏名:String　森２
+	 * 氏名:String　森２igygougug
 	 */
 	private String name;
 
