@@ -2,7 +2,7 @@ package bean;
 
 public class User {
 	/**
-	 * 認証済みフラグ:boolean true:認証済み aaaa
+	 * 認証済みフラグ:boolean true:認証済み aaaa zzzzzz
 	 */
 	private boolean isAuthenticated;
 
