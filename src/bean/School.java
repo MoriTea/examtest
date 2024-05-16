@@ -5,12 +5,12 @@ import java.io.Serializable;
 public class School implements Serializable {
 
 	/**
-	 * 学校コード:String
+	 * 学校コード:String aaaaaa
 	 */
 	private String cd;
 
 	/**
-	 * 学校名:String
+	 * 学校名:String iiiiii
 	 */
 	private String name;
 
