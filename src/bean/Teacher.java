@@ -6,8 +6,13 @@ public class Teacher extends User implements Serializable {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	/**CCCC
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCC
+=======
+	/**
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+>>>>>>> parent of 85564f6 (M11)
 =======
 	/**
 <<<<<<< HEAD
