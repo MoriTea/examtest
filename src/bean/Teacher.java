@@ -7,6 +7,7 @@ public class Teacher extends User implements Serializable {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	/**CCCC
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCC
 =======
@@ -33,6 +34,10 @@ BBBBBBBBBBBBBBBBBBBBBBBBBBBBcccccccccccc
 	 *
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.gitAAAAAAAA
 >>>>>>> parent of a6bf245 (M9)
+=======
+	/**
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+>>>>>>> parent of 653241f (Merge branch 'master' of https://github.com/MoriTea/examtest.git)
 	 */
 	private String id;
 

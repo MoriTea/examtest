@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Student implements Serializable {
 
 	/**
-	 * 学生番号:String　さとう２BBBBBBBBBBBBBBBBBBBBBBBB
+	 * 学生番号:String　さとう２
 	 */
 	private String no;
 

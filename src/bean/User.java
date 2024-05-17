@@ -10,6 +10,7 @@ public class User {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 BBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCC
 =======
 BBBBBBBBBBBBBBBBBBBBBB
@@ -29,6 +30,9 @@ bbbbbbbbbbbbbbbbb
 	 * ゲッター、セッター uuuuu iiiii
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.gitAAAAAAAAA
 >>>>>>> parent of a6bf245 (M9)
+=======
+BBBBBBBBBBBBBBBBBBBBBB
+>>>>>>> parent of 653241f (Merge branch 'master' of https://github.com/MoriTea/examtest.git)
 	 */
 	public boolean isAuthenticated() {
 		return isAuthenticated;
