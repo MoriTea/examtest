@@ -10,6 +10,7 @@ public class Teacher extends User implements Serializable {
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCC
 =======
 	/**
+<<<<<<< HEAD
 BBBBBBBBBBBBBBBBBBBBBBBBBBBB
 >>>>>>> parent of 85564f6 (M11)
 =======
@@ -19,6 +20,14 @@ BBBBBBBBBBBBBBBBBBBBBBBBBBBBcccccccccccc
 =======
 	/**bbbbbbbb
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
+=======
+<<<<<<< HEAD
+	 * 教員ID:String　さとう書き込みmufyumyuyumaaaaaaaa
+=======
+	 * 教員ID:String　さとう書き込み !!!!
+	 *
+>>>>>>> branch 'master' of https://github.com/MoriTea/examtest.gitAAAAAAAA
+>>>>>>> parent of a6bf245 (M9)
 	 */
 	private String id;
 
