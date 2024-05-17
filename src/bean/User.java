@@ -7,7 +7,11 @@ public class User {
 	/**
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 BBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCC
+=======
+BBBBBBBBBBBBBBBBBBBBBB
+>>>>>>> parent of 85564f6 (M11)
 =======
 BBBBBBBBBBBBBBBBBBBBBBccccccccccccccccccccccc
 >>>>>>> branch 'master' of https://github.com/MoriTea/examtest.git
